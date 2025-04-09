@@ -1,0 +1,64 @@
+.header {
+  background-color: #4bbd13;
+  padding: 10px 20px;
+  color: rgb(224, 13, 13);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header .logo {
+  width: 130px;
+  margin-top: 5px;
+}
+
+.main {
+  background-color: #4bbd13;
+  padding: 10px 20px;
+  color: rgb(46, 41, 41);
+  display: flex;
+  align-items: center;
+  height: 432px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.foto {
+  height: auto;
+  transition: all 0.4s ease;
+}
+
+.angry-img {
+  width: 630px;
+}
+
+.boodies-img {
+  width: 250px;
+  object-fit: contain;
+}
+
+.joke {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: black;
+}
+
+.button {
+  margin: 15px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: #4bbd13;
+  padding: 10px 20px;
+  color: rgb(19, 18, 18);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
