@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "../style/Header.css";
 import logo from "../imagens/logo.png";
 import angry from "../imagens/angry.jpg";
